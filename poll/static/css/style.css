@@ -1,0 +1,17 @@
+body
+{ font-family:"Arial",sans-serif,Helvetica;
+
+ font-size:15px;
+ color:rgb(143, 45, 45);
+ text-align:auto;
+ background-color: rgb(55, 40, 70);
+
+}
+
+li a
+{ text-decoration:none;
+  color:red;
+}
+
+
+
